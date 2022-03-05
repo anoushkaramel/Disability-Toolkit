@@ -5,6 +5,6 @@ These people already have limited access to education and about 12 million lack 
 The onset of the pandemic has brought nearly all our activities to the virtual mode including education.
 Sadly, we have not initiated enough conversations about the digital divide that has been manifested and as we accelerate towards a digital India, it is high time that we do.
 
-What can we do to ease collaboration and learning online for the differently abled?
+**What can we do to ease collaboration and learning online for the differently abled?**
 
 > subtitles.py: generates subtitles from a given video file

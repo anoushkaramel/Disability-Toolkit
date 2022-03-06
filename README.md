@@ -10,3 +10,5 @@ Sadly, we have not initiated enough conversations about the digital divide that 
 > subtitles.py: generates subtitles from a given video file
 
 > high_contrast.py: controlling contrast and brightness of video stream in OpenCV and Python
+
+>ASL Captions.ipynb: CNN model for identifying ASL fingerspelling

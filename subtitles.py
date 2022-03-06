@@ -14,6 +14,7 @@ def extractaudio(audio):
         audio_file = r.record(source)
         
     result = r.recognize_google(audio_file, language = 'en-IN', show_all = True)
+    result1 = r.recognize_google(audio_file, language = "hi-IN")
     
     with open('/Users/anoushkadixit/Downloads/recognized.txt',mode ='w') as file: 
         file.write("Recognized Speech:") 
